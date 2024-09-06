@@ -19,7 +19,7 @@ const o_nets = {
   code: [HTML, CSS, Typescript, Javascript, Python, Java],
   tools: [React, Redux, Node, PSD, Jest, Docker, Swagger, AWS],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  blockchain_technologies: [Rust, EhtersJS, FunC, Cosmwasm, Solidity, Web3, Truffle, Cosmos SDK, DEX, NFT, DeFi],
+  blockchain_technologies: [Rust, Solidity, Go, EhtersJS, FunC, Cosmwasm, Web3, Truffle, Cosmos SDK, DEX, NFT, DeFi],
   blockchain_platform: [Ethereum, Hyperledger, Bitcoin, Solana, R3 Corda, Tezos, Stellar, Dash, Binance, Polygon, EOSIO],
 }
 ```
